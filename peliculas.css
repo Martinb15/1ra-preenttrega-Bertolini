@@ -1,0 +1,38 @@
+body{background-color: rgb(243, 240, 235);
+}
+.Peliculas{display: flex;
+         flex-direction: row;
+         
+         justify-content: center; 
+    
+         padding-top: 30%;
+         
+         width: 100%;
+         
+
+
+}
+
+.pelicula {border: 1px;
+   
+    color: rgb(14, 7, 6); 
+    margin: 100px;
+    
+    
+
+}
+
+.grid{
+
+    display: grid;
+    justify-content: center;
+
+
+
+}
+
+body{
+
+
+
+}
